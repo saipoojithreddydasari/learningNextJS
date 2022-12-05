@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 This is a web application that uses an open source API provided by New York Times to fetch news and display various sections.
 
-This is a sample
+This is an initial practice version for the NextJS App.
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
